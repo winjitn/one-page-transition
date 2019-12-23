@@ -14,7 +14,7 @@ body {
 
 .ctn {
   position: fixed;
-  transition: 1s ease-in-out;
+  transition: 1s cubic-bezier(0.81, 0.08, 0.27, 1.03);
 }
 
 .outer {
